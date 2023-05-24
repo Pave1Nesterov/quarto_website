@@ -3,11 +3,11 @@
     "path": "C:/Users/mrcee/RStudioProjects/threat_hunting/quarto_website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "1584915517",
+    "hash": "3207838172",
     "contents": "",
     "dirty": false,
     "created": 1684910891336.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 1,
     "properties": {
         "rmdVisualMode": "false",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "33:0",
-        "cursorPosition": "0,0",
-        "scrollLine": "0"
+        "rmdVisualModeLocation": "80:126.4000015258789",
+        "cursorPosition": "38,0",
+        "scrollLine": "4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684911834,
+    "lastKnownWriteTime": 1684957341,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684911834865,
+    "last_content_update": 1684957341746,
     "read_only": false,
     "read_only_alternatives": []
 }
